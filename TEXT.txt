@@ -1,0 +1,43 @@
+Our first program we tried to add custom weights to the term frequency values by adding a multiplier to any tokens that were found in html headers or titles or were bolded font, but parsing through the html made it much more complex when we had longer query inputs.
+
+Hard: 
+1. It was all about the preservation of the skeletons," explained Prof Gabriele Scorrano, from the Lundbeck GeoGenetics centre in Copenhagen, who led the study. "It's the first thing we looked at, and it looked promising, so we decided to give [DNA extraction] a shot.
+
+2. Nine cases of monkeypox in seven states have been reported or confirmed in the U.S. as of Thursday, and the public health system is ramping up to test, treat and possibly vaccinate those at high risk, health officials said.
+
+3. "A monkeypox outbreak of this scale and scope across the world has not been seen before," Dr. Raj Panjabi, who leads the White House pandemic preparedness office, said in a news briefing Thursday.
+
+4. The White House, together with the Centers for Disease Control and Prevention, is working to ensure that tests, vaccines and treatments are easily available to all who need them, he said.
+
+5. Scientists have recorded more than 350 confirmed or suspected monkeypox cases since May 5, mainly in Europe but also in the United States, Canada and Australia.
+
+6. Elizabeth Keckley began working as a nursemaid when she was four years old, and endured years of beatings and rape, the latter of which resulted in a pregnancy. However, one part of her childhood would eventually save her: from her mother, Elizabeth Keckley had learned how to sew. Not only did Keckley’s sewing skills eventually allow her to purchase her freedom—her patrons loaned her the money to buy herself and her son—they also enabled her to start her own dressmaking business and become the seamstress and friend of then-First Lady, Mary Todd Lincoln.
+
+7. Do you want to cultivate your leadership skills to ensure you’re being as effective as possible? Scott Jeffrey Miller, a student of The 7 Habits of Highly Effective People author Stephen R. Covey, has some advice for you.
+
+8. A positive long-term outcome requires honesty about the Brotherhood's errors as well as the unseemly alliance struggling to tame Egypt now -- in short, the whole halting attempt at revolution so far.
+
+9. "I would say that if the Sudanese government's claims are correct, then this is longest strike -- the farthest strike -- ever executed by the Israeli air force," says Ehud Yaari, the Israel-based Lafer InternationalFellow at the Washington Institutefor Near East Policy.
+
+10. The weather outside is nice today. Please don't suck my toes. My cat ate my underwear. Chicken wings chicken wings chicken wings. My favorite. I like stuffed animals. SOmetimes. #(@!*(!@#**!$!). I buy a lot of tissue boxes. {\AND. I WeNt To CorGI BEACHDAY Al0Ne  
+
+Easy: 
+1. Cases have been found in California, Florida, Massachusetts, New York, Utah, Virginia and Washington.
+
+2. All she wanted was the answer, but she had no idea how much she would hate it.
+
+3. He picked up trash in his spare time to dump in his neighbor's yard.
+
+4. She was sad to hear that fireflies are facing extinction due to artificial light, habitat loss, and pesticides.
+
+5. He was surprised that his immense laziness was inspirational to others.
+
+6. Improve your goldfish's physical fitness by getting him a bicycle.
+
+7. If you don't like toenails, you probably shouldn't look at your feet.
+
+8. She thought there'd be sufficient time if she hid her watch.
+
+9. When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery.
+
+10. The teenage boy was accused of breaking his arm simply to get out of the test.
