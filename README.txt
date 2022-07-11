@@ -3,7 +3,7 @@ Authors: Henry Tran, Davy Nguyen, Ly Heng Teng, Jenelle Monge
 This document belongs in a zip folder containing the following files: 'main.py', 'tfidfIndexGenerator.py', 'searchJsonIndex.py', 'TEST.txt', and 'README.txt' (this document).
 ----------------------------------------------------------------------
 Definitions:
-'main.py' is the program we wrote for MS1 and MS2. WARNING: it is our first attempt at this assignment and is only included for performance comparison purposes; it takes several minutes to parse through all the json files and several seconds to retrieve queries in the search engine. The latter programs described in the instructions below represent our final optimized search engine.
+'main.py' WARNING: it is our first attempt at this assignment and is only included for performance comparison purposes; it takes several minutes to parse through all the json files and several seconds to retrieve queries in the search engine. The latter programs described in the instructions below represent our final optimized search engine.
 
 'tfidfIndexGenerator.py' is a script that generates an inverted index of tokens and their corresponding postings. Each posting contains the url of the document in which the token was found and the token's tf-idf score for that document. The generated data structure is stored as a json file named 'tfidfJsonIndex.json' in the working directory.
 
